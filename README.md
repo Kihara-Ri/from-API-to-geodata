@@ -153,7 +153,7 @@ geodata.to_file(r'津南区')
 geodata.to_file(r'津南区.json', driver = 'GeoJSON')
 ```
 
-可以在https://geojson.io上打开`.json`数据
+可以在https://geojson.io 上打开`.json`数据
 
 <img src="https://mdstore.oss-cn-beijing.aliyuncs.com/Screenshot%202023-11-09%20at%2015.10.16.png" alt="Screenshot 2023-11-09 at 15.10.16" style="zoom: 25%;" />
 
