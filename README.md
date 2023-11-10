@@ -25,7 +25,7 @@ url = 'https://restapi.amap.com/v3/config/district?'
 
 ```python
 keywords = '津南区'
-my_key = '4441e8be424f54009e1ca2cf18d058ff'
+my_key = '这里要替换成你的key'
 '''
 subdistrict取值：
 0：不返回下级行政区；
