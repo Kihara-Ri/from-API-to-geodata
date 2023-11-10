@@ -5,7 +5,7 @@
 
 首先进入[行政区查询](https://lbs.amap.com/api/javascript-api/guide/services/district-search)
 
-在本页面中的**获取下级行政区信息**中的链接：https://lbs.amap.com/demo/javascript-api/example/district-search/city-drop-down-list中可以尝试选择地区进行查询
+在本页面中的**获取下级行政区信息**中的链接：https://lbs.amap.com/demo/javascript-api/example/district-search/city-drop-down-list 中可以尝试选择地区进行查询
 
 关于行政区域查询API服务的详细信息，查看以下网址：
 
